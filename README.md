@@ -35,8 +35,9 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
 </p>
 
 ---
@@ -44,6 +45,7 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 <p align="left">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -62,6 +64,8 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]&nbsp; &nbsp; &nbsp;
+[<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp; &nbsp; &nbsp;
+
 
 <br/>
 
@@ -70,5 +74,6 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 [gmail]:mailto:alwinseb01@gmail.com?subject=&body=
 [twitter]:https://twitter.com/AlwinSe20801876
 [instagram]:https://www.instagram.com/alw1n_s3b/
+[whatsapp]:https://api.whatsapp.com/send/?phone=917838253445&text&app_absent=0
 
 ![Visitor Count](https://profile-counter.glitch.me/{Alwinseb01}/count.svg)
