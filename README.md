@@ -20,9 +20,9 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Alwinseb01&hide_border=true&theme=radical" width="47%" height="160px" style="margin-top:40px"/>
-<br>
+<br/><br/><br/><br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwinseb01&layout=compact&theme=dracula" width="47%" height="160px" style="margin-top:40px"/>
-<br>
+<br/><br/><br/><br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=Alwinseb01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" style="margin-top:40px"/>
 
 ---
