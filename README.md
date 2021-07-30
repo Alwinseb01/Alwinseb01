@@ -1,5 +1,5 @@
 # Hello !!! , [I'm Alwin Sebastian!](https://www.linkedin.com/in/alwin-sebastian/) &nbsp; &nbsp;
-![Visitor Count](https://profile-counter.glitch.me/{Alwinseb01}/count.svg)
+
 
 ## About Me🙋‍♂️
 
@@ -70,3 +70,5 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 [gmail]:mailto:alwinseb01@gmail.com?subject=&body=
 [twitter]:https://twitter.com/AlwinSe20801876
 [instagram]:https://www.instagram.com/alw1n_s3b/
+
+![Visitor Count](https://profile-counter.glitch.me/{Alwinseb01}/count.svg)
