@@ -14,16 +14,17 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Alwinseb01&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=dracula" width="47%" height="160px" style="margin-top:20px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Alwinseb01&include_all_commits=1&hide_border=true&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=chartreuse-dark" width="47%" height="160px" style="margin-top:20px"/>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=Alwinseb01&theme=dracula&column=4&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" width="47%" height="160px" style="margin-top:20px"/>
-
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Alwinseb01&hide_border=true&theme=radical" width="47%" height="160px" style="margin-top:40px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwinseb01&layout=compact&hide_border=true&&theme=chartreuse-dark" width="47%" height="300px" style="margin-top:40px"/>
+<br/><br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Alwinseb01&currStreakLabel=00AEFF&hide_border=true&theme=chartreuse-dark" width="47%" height="160px" style="margin-top:40px"/>
 <br/><br/><br/><br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwinseb01&layout=compact&theme=dracula" width="47%" height="160px" style="margin-top:40px"/>
+
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=Alwinseb01&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15 " width="100%" height="160px" style="margin-top:20px"/>
+
 <br/><br/><br/><br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=Alwinseb01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" style="margin-top:40px"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Alwinseb01&custom_title=Contribution%20Graph&bg_color=000000&color=00AEFF&line=39FF14&point=FFFFFF&hide_border=true" style="margin-top:40px"/>
 
 ---
 ## Languages:    
