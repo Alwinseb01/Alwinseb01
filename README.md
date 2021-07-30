@@ -59,7 +59,7 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 ## Contact Me
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
-[<img alt="Instagram" src="https://img.shields.io/badge/alwin_s3b-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]&nbsp; &nbsp; &nbsp;
 
@@ -67,6 +67,6 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 
 [linkedin]:https://www.linkedin.com/in/alwin-sebastian/
 [github]:https://github.com/Alwinseb01
-[gmail]:alwinseb01@gmail.com
+[gmail]:mailto:alwinseb01@gmail.com?subject=&body=
 [twitter]:https://twitter.com/AlwinSe20801876
 [instagram]:https://www.instagram.com/alw1n_s3b/
