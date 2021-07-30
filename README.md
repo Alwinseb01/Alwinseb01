@@ -1,10 +1,10 @@
 # Hello !!! , [I'm Alwin Sebastian!](https://www.linkedin.com/in/alwin-sebastian/) &nbsp; &nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{Alwinseb01}/count.svg)
 
-## About Me💁‍♂️ 
+## About Me🙋‍♂️
 
 
-I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from Indian Institute of Information Technology Allahabad 🏛 who is an ardent learner, a passionate developer🖥️, in pursuit of learning new technologies and frameworks and inmpelenting them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of AI/ML 👨‍💻.
+I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 who is an ardent learner, a passionate developer🖥️, in pursuit of learning new technologies and frameworks and inmpelenting them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of AI/ML 👨‍💻.
 
 ### Talking about Personal Stuffs:
 - 🛠 currently trying to contribute to Open Sources and improving my <a href="https://github.com/Alwinseb01/Virtual-Assistant">Virtual Assistant</a>.
@@ -61,7 +61,7 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
 [<img alt="Instagram" src="https://img.shields.io/badge/lens_ified-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
-[<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]&nbsp; &nbsp; &nbsp;
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]&nbsp; &nbsp; &nbsp;
 
 <br/>
 
