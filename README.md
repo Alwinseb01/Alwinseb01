@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
 # Hello !!! I'm [Alwin Sebastian!](https://www.linkedin.com/in/alwin-sebastian/) &nbsp; &nbsp;
 
 
