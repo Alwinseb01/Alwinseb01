@@ -24,7 +24,7 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=Alwinseb01&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15 " width="100%" height="160px" style="margin-top:20px"/>
 
 <br/><br/><br/><br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=Alwinseb01&custom_title=Contribution%20Graph&bg_color=000000&color=00AEFF&line=39FF14&point=FFFFFF&hide_border=true" style="margin-top:40px"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Alwinseb01&custom_title=Contribution%20Graph&bg_color=000000&color=00AEFF&line=39FF14&point=FF3300&hide_border=true" style="margin-top:40px"/>
 
 ---
 ## Languages:    
