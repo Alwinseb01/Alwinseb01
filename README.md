@@ -9,7 +9,7 @@
 I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 who is an ardent learner, a passionate developer🖥️, in pursuit of learning new technologies and frameworks and inmpelenting them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of AI/ML 👨‍💻.
 
 ### Whats going on:
-- 🛠 currently trying to contribute to Open Sources and improving my <a href="https://github.com/Alwinseb01/Virtual-Assistant">Virtual Assistant</a>.
+- 🛠 currently trying to contribute to Open Sources and improving <a href="https://github.com/Alwinseb01/Virtual-Assistant">Virtual Assistant</a>.
 - 📖 Learning Machine Learning and Computer Vision.
 - 👾 All of my projects are available on Github.
 - 📫 How to reach me: alwinseb01@gmail.com
