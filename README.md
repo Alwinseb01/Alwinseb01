@@ -27,8 +27,8 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Alwinseb01&custom_title=Contribution%20Graph&bg_color=000000&color=00AEFF&line=39FF14&point=FF3300&hide_border=true" style="margin-top:40px width:100%"/>
 
-
-### View a 3D model of my GitHub contribution graph <a href="https://skylines.vercel.app/">here</a>!
+---
+#### View a 3D model of my GitHub contribution graph📈 <a href="https://skylines.vercel.app/">here</a>!
 
 ---
 ## Languages:    
