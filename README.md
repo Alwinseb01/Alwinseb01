@@ -1,12 +1,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-# Hello !!! I'm [Alwin Sebastian!](https://www.linkedin.com/in/alwin-sebastian/) &nbsp; &nbsp;
+# Hello !!! I'm [Alwin Sebastian!](https://www.linkedin.com/in/alwin-sebastian/)  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  &nbsp; &nbsp;
 
 
 ## About Me🙋‍♂️
-
-
-I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 who is an ardent learner, a passionate developer🖥️, in pursuit of learning new technologies and frameworks and inmpelenting them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of AI/ML 👨‍💻.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=An+ardent+learner.;A+passionate+developer%F0%9F%92%BB)](https://git.io/typing-svg) <br>
+I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 , in pursuit of learning new technologies and frameworks and impelenting them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of AI/ML 👨‍💻.
 
 ### Whats going on:
 - 🛠 currently trying to contribute to Open Sources and improving <a href="https://github.com/Alwinseb01/Virtual-Assistant">Virtual Assistant</a>.
