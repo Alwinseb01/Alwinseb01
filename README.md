@@ -5,7 +5,7 @@
 
 ## About Me🙋‍♂️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=An+ardent+learner.;A+passionate+developer%F0%9F%92%BB)](https://git.io/typing-svg) <br>
-I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 , in pursuit of learning new technologies and frameworks and impelenting them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of AI/ML 👨‍💻.
+I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 , in pursuit of learning new technologies and frameworks and implementing them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of AI/ML 👨‍💻.
 
 ### Whats going on:
 - 🛠 currently trying to contribute to Open Sources and improving <a href="https://github.com/Alwinseb01/Virtual-Assistant">Virtual Assistant</a>.
