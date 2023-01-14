@@ -85,7 +85,7 @@ I am a Pre Final Year Student pursuing Bachelors in Computer Science 🎓 from I
 [linkedin]:https://www.linkedin.com/in/alwin-sebastian/
 [github]:https://github.com/Alwinseb01
 [gmail]:mailto:alwinseb01@gmail.com?subject=&body=
-[twitter]:https://twitter.com/AlwinSe20801876
+[twitter]:https://twitter.com/alwinseb01?t=VzHCvtyTBGchgXcARIsq_w&s=09
 [instagram]:https://www.instagram.com/alw1n_s3b/
 [whatsapp]:https://api.whatsapp.com/send/?phone=917838253445&text&app_absent=0
 
