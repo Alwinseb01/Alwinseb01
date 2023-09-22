@@ -5,7 +5,7 @@
 
 ## About Me🙋‍♂️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=An+ardent+learner.;A+passionate+developer%F0%9F%92%BB)](https://git.io/typing-svg) <br>
-I am a Bachelors graduate in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 , in pursuit of learning new technologies and frameworks and implementing them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of Software/ Cloud 👨‍💻.
+I am a Bachelors graduate in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 , in pursuit of learning new technologies and frameworks and implementing them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of Software/Cloud/AI 👨‍💻.
 
 ### Whats going on:
 - 🛠 currently working as a front end developer
