@@ -8,8 +8,8 @@
 I am a Bachelors graduate in Computer Science 🎓 from Indian Institute of Information Technology Kottayam 🏛 , in pursuit of learning new technologies and frameworks and implementing them for the benefit of the community. Have a keen interest in the latest and upcoming technologies, specially in the field of Software/Cloud/AI 👨‍💻.
 
 ### Whats going on:
-- 🛠 currently working as a front end developer
-- 📖 Learning Machine Learning and Computer Vision.
+- 🛠 Software Developer
+- 📖 Learning More about Cloud
 - 👾 All of my projects are available on Github.
 - 📫 How to reach me: alwinseb01@gmail.com
 
